@@ -2,7 +2,8 @@
 A simple autoclicker with controls using pyautogui. 
 ![Image](https://i.imgur.com/QIh8yAA.png)
 
-Default delay is 1 second.
+The default delay is 1 second.
+Change delay by typing D (your delay)
 
 **Note:**  
 As a fail-safe, moving your mouse to the very top left corner will exit the program.
